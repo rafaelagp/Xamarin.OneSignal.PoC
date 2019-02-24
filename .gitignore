@@ -38,3 +38,9 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+Resource.designer.cs
+RealmWeaver.Fody.dll
+.vs/AnimalsOfCostaRica/xs/sqlite3/db.lock
+.vs/AnimalsOfCostaRica/xs/sqlite3/storage.ide
+.vs/AnimalsOfCostaRica/xs/sqlite3/storage.ide-shm
+.vs/AnimalsOfCostaRica/xs/sqlite3/storage.ide-wal
